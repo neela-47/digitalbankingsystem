@@ -1,13 +1,14 @@
+import { CgProfile } from "react-icons/cg";
 import { NavLink } from "react-router-dom";
 
 
 const NavBarS = () => {
     const links = <>
-    <NavLink><li className="bg-amber-300 p-2 mr-2">Home</li></NavLink>
-    <NavLink><li className="bg-amber-300 p-2 mr-2">Home</li></NavLink>
-    <NavLink><li className="bg-amber-300 p-2 mr-2">Home</li></NavLink>
-    <NavLink><li className="bg-amber-300 p-2 mr-2">Home</li></NavLink>
-    <NavLink><li className="bg-amber-300 p-2 mr-2">Home</li></NavLink>
+    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
     </>
     return (
         <>
@@ -43,7 +44,8 @@ const NavBarS = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+    <NavLink className="btn bg-blue-600 text-white rounded-lg">Register/Login</NavLink>
+   <p className="text-4xl"> <CgProfile></CgProfile></p>
   </div>
 </div>
         </div>

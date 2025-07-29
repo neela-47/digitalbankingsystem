@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import Root from './Components/Roots/Root';
 import Home from './Components/Landingpage/Home';
+import AllProducts from './Components/Landingpage/AllProducts';
 //import Banner from './Components/Landingpage/Banner';
 //import Features from './Components/Landingpage/Features';
 //import AllProducts from './Components/Landingpage/AllProducts';
@@ -21,6 +22,7 @@ const router = createBrowserRouter([
       path:"/",
       element:<Home></Home>,
       },
+      
       ]
   },
 ]);
