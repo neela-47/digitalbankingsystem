@@ -1,38 +1,161 @@
 [
   {
-    "id": 1,
+    "productId": 1,
     "title": "💰 Savings & Current Accounts",
     "description": "নিরাপদ ও সহজে পরিচালনাযোগ্য সঞ্চয় ও চলতি হিসাব খুলুন মাত্র কয়েক মিনিটে।",
-    "image": "https://via.placeholder.com/150?text=Account"
+    "image": "https://ik.imagekit.io/mm5y9xdkp/P1.png?updatedAt=1753864779629",
+    "details": {
+      "services": [
+        "✅ Savings Account",
+        "✅ Current Account",
+        "✅ Student Account",
+        "✅ Joint Account",
+        "✅ Fixed Deposit (FD)",
+        "✅ Recurring Deposit (RD)",
+        "✅ Goal-Based Savings Account"
+      ],
+      "features": [
+        "📄 Easy online account opening",
+        "🔐 Secure access with OTP & biometric",
+        "📱 Mobile app access for all account types"
+      ],
+      "benefits": [
+        "💸 Zero balance facility for student accounts",
+        "🎁 Get ৳১০০ bonus for new accounts",
+        "🚀 Fast KYC & onboarding"
+      ],
+      "offers": [
+        "🎉 Open account & get ৳১০০ instantly",
+        "💡 First 5 transactions = ৳২০০ bonus"
+      ]
+    }
   },
   {
-    "id": 2,
+    "productId": 2,
     "title": "💳 Debit & Virtual Cards",
     "description": "ফিজিক্যাল বা ভার্চুয়াল কার্ডের মাধ্যমে কেনাকাটা করুন নির্ভরযোগ্যভাবে।",
-    "image": "https://via.placeholder.com/150?text=Cards"
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p2.png?updatedAt=1753864906100",
+    "details": {
+      "services": [
+        "✅ Physical Debit Card",
+        "✅ Virtual Debit Card",
+        "✅ International Usage Option"
+      ],
+      "features": [
+        "🔒 Secure OTP verification",
+        "📲 Add to Google/Apple Pay",
+        "🧾 Expense tracking from app"
+      ],
+      "benefits": [
+        "💳 Virtual card activation within minutes",
+        "🎁 ৳৭৫ bonus for new virtual card users"
+      ],
+      "offers": [
+        "💡 Activate Virtual Debit Card & get ৳৭৫"
+      ]
+    }
   },
   {
-    "id": 3,
+    "productId": 3,
     "title": "📈 Savings & Investment",
     "description": "DPS, FDR ও Goal-based saving–এ বিনিয়োগ করুন ভবিষ্যতের জন্য।",
-    "image": "https://via.placeholder.com/150?text=Investment"
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p3.png?updatedAt=1753865035504",
+    "details": {
+      "services": [
+        "✅ Monthly DPS Plans",
+        "✅ Fixed Deposit (FDR)",
+        "✅ Goal-Based Savings"
+      ],
+      "features": [
+        "📈 Competitive interest rates",
+        "📆 Flexible tenure options",
+        "🔔 Maturity alerts"
+      ],
+      "benefits": [
+        "🏆 Bonus on goal achievement",
+        "💸 Auto-deposit from main account"
+      ],
+      "offers": [
+        "🎯 Goal-based account bonus on target completion"
+      ]
+    }
   },
   {
-    "id": 4,
+    "productId": 4,
     "title": "🧾 Bill Payments",
     "description": "বিদ্যুৎ, গ্যাস, পানি সহ সব বিল দিন এক প্ল্যাটফর্মে সহজেই।",
-    "image": "https://via.placeholder.com/150?text=Bills"
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p4.png?updatedAt=1753865155678",
+    "details": {
+      "services": [
+        "✅ Electricity Bill",
+        "✅ Gas Bill",
+        "✅ Water Bill",
+        "✅ Internet, Mobile Recharge"
+      ],
+      "features": [
+        "⚡ Instant processing",
+        "🧾 Bill history & receipts",
+        "🔁 Set up AutoPay"
+      ],
+      "benefits": [
+        "🎁 5% cashback on utility bill payments",
+        "💰 ৳৫০ reward for using AutoPay monthly"
+      ],
+      "offers": [
+        "✅ Instant discount on each utility bill",
+        "🔁 AutoPay = ৳৫০/month reward"
+      ]
+    }
   },
   {
-    "id": 5,
+    "productId": 5,
     "title": "📱 Mobile Banking Features",
     "description": "ব্যালান্স চেক, ফান্ড ট্রান্সফার, QR পেমেন্ট সহ আরও অনেক কিছু।",
-    "image": "https://via.placeholder.com/150?text=Mobile+Banking"
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p5.png?updatedAt=1753865248340",
+    "details": {
+      "services": [
+        "✅ Fund Transfer (NPSB/BEFTN)",
+        "✅ QR & NFC Payments",
+        "✅ Mini Statement & Balance Check"
+      ],
+      "features": [
+        "📲 Biometric login",
+        "🔔 Free SMS alerts",
+        "📊 Real-time transaction history"
+      ],
+      "benefits": [
+        "🆓 Monthly SMS alert free",
+        "⚡ Instant QR payments in stores"
+      ],
+      "offers": [
+        "📩 Use mobile app = free SMS alert every month"
+      ]
+    }
   },
   {
-    "id": 6,
+    "productId": 6,
     "title": "🏠 Loans & Credit",
     "description": "পার্সোনাল, SME অথবা হোম লোন নিন সহজ কিস্তিতে।",
-    "image": "https://via.placeholder.com/150?text=Loans"
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p6.png?updatedAt=1753865330332",
+    "details": {
+      "services": [
+        "✅ Personal Loan",
+        "✅ Education/Student Loan",
+        "✅ SME/Startup Loan",
+        "✅ Home/Auto Loan"
+      ],
+      "features": [
+        "📅 Easy EMI setup",
+        "📝 Paperless application",
+        "📈 Credit score insight"
+      ],
+      "benefits": [
+        "📉 Low interest rate options",
+        "⚡ Instant eligibility check"
+      ],
+      "offers": [
+        "🎁 No processing fee on first loan"
+      ]
+    }
   }
 ]

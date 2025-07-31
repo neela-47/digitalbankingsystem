@@ -8,10 +8,9 @@ import {
 } from "react-router-dom";
 import Root from './Components/Roots/Root';
 import Home from './Components/Landingpage/Home';
-import AllProducts from './Components/Landingpage/AllProducts';
-//import Banner from './Components/Landingpage/Banner';
-//import Features from './Components/Landingpage/Features';
-//import AllProducts from './Components/Landingpage/AllProducts';
+import SavingsDetails from './Components/RoutingPage/SavingsDetails';
+import Details from './Components/RoutingPage/Details';
+
 
 const router = createBrowserRouter([
   {
@@ -22,7 +21,11 @@ const router = createBrowserRouter([
       path:"/",
       element:<Home></Home>,
       },
-      
+      {
+        path:"/details/:productId",
+        element:<Details></Details>,
+        loader:()=>fetch('/product.json'),
+      }
       ]
   },
 ]);

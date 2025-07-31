@@ -4,11 +4,11 @@ import { NavLink } from "react-router-dom";
 
 const NavBarS = () => {
     const links = <>
-    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
-    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
-    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
-    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
-    <NavLink><li className="bg-blue-600 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-green-400 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-green-400 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-green-400 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-green-400 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
+    <NavLink><li className="bg-green-400 p-2 mr-2 rounded-lg text-white">Home</li></NavLink>
     </>
     return (
         <>
@@ -36,7 +36,7 @@ const NavBarS = () => {
        {links}
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl"> X Digital Bank</a>
+    <a className="btn btn-ghost text-xl text-green-900 font-bold"> X Digital Bank</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -44,7 +44,7 @@ const NavBarS = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <NavLink className="btn bg-blue-600 text-white rounded-lg">Register/Login</NavLink>
+    <NavLink className="btn bg-green-500 text-white rounded-lg">Register/Login</NavLink>
    <p className="text-4xl"> <CgProfile></CgProfile></p>
   </div>
 </div>

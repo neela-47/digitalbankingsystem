@@ -1,0 +1,186 @@
+ [
+    {
+      "id": 1,
+      "name": "Savings Account",
+      "description": "A fundamental account for individuals to save money and earn interest. It's ideal for long-term financial goals and emergency funds, providing a secure and accessible way to grow your savings.",
+      "features": [
+        "Interest accrual on balance",
+        "Easy deposits and withdrawals",
+        "Online banking access",
+        "Mobile banking app",
+        "ATM card facility",
+        "Automated savings plans"
+      ],
+      "benefits": [
+        "Financial security and stability",
+        "Earn passive income through interest",
+        "Easy access to funds when needed",
+        "Tools to help you save consistently",
+        "Secure digital transactions"
+      ],
+      "eligibility": [
+        "Minimum age 18 years",
+        "Valid identification (e.g., national ID, passport)",
+        "Proof of address"
+      ],
+      "callToAction": "Open Savings Account",
+      "imageUrl": "https://placehold.co/600x400/ADD8E6/000000?text=Savings+Account"
+    },
+    {
+      "id": 2,
+      "name": "Current Account",
+      "description": "Designed for businesses and individuals with high transaction volumes, offering unlimited transactions and no interest on deposits, making it perfect for daily operational needs.",
+      "features": [
+        "Unlimited transactions",
+        "No interest on balance",
+        "Overdraft facility (subject to approval)",
+        "Cheque book facility",
+        "Online and mobile banking",
+        "Dedicated relationship manager (for businesses)"
+      ],
+      "benefits": [
+        "Seamless daily transactions",
+        "Flexibility for high volume activities",
+        "Access to credit facilities for business growth",
+        "Convenient payment methods",
+        "Streamlined financial management"
+      ],
+      "eligibility": [
+        "Businesses: Business registration documents, proof of address",
+        "Individuals: Minimum age 18 years, valid identification, proof of address"
+      ],
+      "callToAction": "Apply for Current Account",
+      "imageUrl": "https://placehold.co/600x400/90EE90/000000?text=Current+Account"
+    },
+    {
+      "id": 3,
+      "name": "Student Account",
+      "description": "Tailored for students, often with no monthly fees, special discounts, and features to help manage finances during their studies, easing the financial burden of education.",
+      "features": [
+        "No monthly maintenance fees",
+        "Student discounts on various services",
+        "Low minimum balance requirements",
+        "Free ATM withdrawals",
+        "Financial literacy resources",
+        "Budgeting tools"
+      ],
+      "benefits": [
+        "Cost-effective banking for students",
+        "Exclusive perks and savings",
+        "Supports financial independence",
+        "Helps build good money habits early",
+        "Easy access to funds for student needs"
+      ],
+      "eligibility": [
+        "Enrolled in an accredited educational institution",
+        "Valid student ID",
+        "Minimum age 18 years (or parental consent for minors)"
+      ],
+      "callToAction": "Open Student Account",
+      "imageUrl": "https://placehold.co/600x400/FFD700/000000?text=Student+Account"
+    },
+    {
+      "id": 4,
+      "name": "Joint Account",
+      "description": "An account shared by two or more individuals, perfect for couples, families, or roommates to manage shared expenses and finances collaboratively and transparently.",
+      "features": [
+        "Shared access and management by all account holders",
+        "Separate debit cards for each holder",
+        "Consolidated statements",
+        "Easy tracking of shared expenses",
+        "Joint budgeting features"
+      ],
+      "benefits": [
+        "Simplified shared financial management",
+        "Increased transparency between account holders",
+        "Convenient for household bills and expenses",
+        "Promotes financial collaboration",
+        "Easy monitoring of combined finances"
+      ],
+      "eligibility": [
+        "All account holders must be 18 years or older",
+        "Valid identification and proof of address for all applicants"
+      ],
+      "callToAction": "Open Joint Account",
+      "imageUrl": "https://placehold.co/600x400/FFB6C1/000000?text=Joint+Account"
+    },
+    {
+      "id": 5,
+      "name": "Fixed Deposit (FD)",
+      "description": "A type of investment account where a fixed sum of money is deposited for a specific period at a fixed interest rate, offering higher returns than savings accounts and a secure investment option.",
+      "features": [
+        "Higher interest rates compared to savings accounts",
+        "Guaranteed returns",
+        "Flexible tenure options",
+        "Option for interest payout (monthly, quarterly, annually, or at maturity)",
+        "Loan against FD facility",
+        "Tax-saving FD options"
+      ],
+      "benefits": [
+        "Secure and low-risk investment",
+        "Predictable and higher returns",
+        "Ideal for long-term financial planning",
+        "Provides liquidity through loan facility",
+        "Potential tax benefits"
+      ],
+      "eligibility": [
+        "Individuals, HUFs, NRIs, companies, and trusts can open an FD",
+        "Valid identification and proof of address"
+      ],
+      "callToAction": "Invest in Fixed Deposit",
+      "imageUrl": "https://placehold.co/600x400/DDA0DD/000000?text=Fixed+Deposit"
+    },
+    {
+      "id": 6,
+      "name": "Recurring Deposit (RD)",
+      "description": "An investment scheme allowing individuals to deposit a fixed amount of money every month for a fixed tenure, earning interest on their savings and building a disciplined savings habit.",
+      "features": [
+        "Regular monthly savings habit",
+        "Higher interest rates than savings accounts",
+        "Flexible tenure options",
+        "Compounding interest benefits",
+        "Suitable for achieving short to medium-term goals",
+        "Automated monthly deductions"
+      ],
+      "benefits": [
+        "Cultivates disciplined savings",
+        "Earns higher interest over time",
+        "Achieve specific financial goals systematically",
+        "Low-risk investment with steady returns",
+        "Convenient and automated savings"
+      ],
+      "eligibility": [
+        "Individuals, minors (through guardian), HUFs, companies, and trusts",
+        "Valid identification and proof of address"
+      ],
+      "callToAction": "Start Recurring Deposit",
+      "imageUrl": "https://placehold.co/600x400/87CEEB/000000?text=Recurring+Deposit"
+    },
+    {
+      "id": 7,
+      "name": "Goal-Based Savings Account",
+      "description": "An account that helps users save for specific financial goals by allowing them to create separate 'pots' or 'buckets' for each objective, making savings more tangible and motivating.",
+      "features": [
+        "Set multiple savings goals (e.g., vacation, down payment, education)",
+        "Track progress for each goal individually",
+        "Automate transfers to specific goals",
+        "Personalized insights and tips",
+        "Visual progress indicators",
+        "Option to invite collaborators for shared goals"
+      ],
+      "benefits": [
+        "Clear path to achieving financial goals",
+        "Increased motivation to save",
+        "Organized and focused savings strategy",
+        "Better financial planning and tracking",
+        "Flexibility to adjust goals as needed"
+      ],
+      "eligibility": [
+        "Minimum age 18 years",
+        "Valid identification",
+        "Proof of address"
+      ],
+      "callToAction": "Create Your Savings Goals",
+      "imageUrl": "https://placehold.co/600x400/FFC0CB/000000?text=Goal-Based+Savings"
+    }
+  ]

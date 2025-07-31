@@ -4,7 +4,7 @@ const AdditionalFeatures1 = () => {
     return (
         <div>
            <div>
-               <h2 className="text-3xl font-bold text-center text-blue-800 pt-4 bg-base-200">Why We’re Different</h2>
+               <h2 className="text-3xl font-bold text-center text-green-800 pt-4 bg-base-200">Why We’re Different</h2>
             </div>
            <div className="hero bg-base-200 mb-4">
            
@@ -18,7 +18,7 @@ const AdditionalFeatures1 = () => {
      
       <div className="overflow-x-auto">
         <table className="w-full text-left border border-gray-200 rounded-xl overflow-hidden shadow-md">
-          <thead className="bg-blue-100 text-blue-800">
+          <thead className="bg-green-200 text-green-800">
             <tr>
               <th className="px-6 py-4 font-semibold">Feature</th>
               <th className="px-6 py-4 font-semibold">Traditional Bank</th>

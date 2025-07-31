@@ -43,7 +43,7 @@ const Features = () => {
 
   return (
     <div className="bg-gray-50  py-10 px-4">
-      <h2 className="text-3xl font-bold text-center text-blue-800 mb-8">
+      <h2 className="text-3xl font-bold text-center text-green-800 mb-8">
         🏦 X Digital Banking System – এক্সক্লুসিভ অফারসমূহ
       </h2>
      <Marquee pauseOnHover='true'>
@@ -54,10 +54,10 @@ const Features = () => {
             key={idx}
             className="bg-white border border-blue-200 rounded-2xl max-w-96 shadow-md p-6 hover:shadow-xl transition duration-300"
           >
-            <h3 className="text-xl font-semibold text-blue-700 mb-2">{offer.title}</h3>
+            <h3 className="text-xl font-semibold text-green-700 mb-2">{offer.title}</h3>
             <p className="text-gray-700">{offer.description}</p>
             <div className="mt-4 ">
-              <button className="bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-lg text-sm">
+              <button className="bg-green-500 hover:bg-green-700 text-white py-2 px-4 rounded-lg text-sm">
                 বিস্তারিত দেখুন
               </button>
             </div>
