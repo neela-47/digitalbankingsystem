@@ -10,7 +10,7 @@ const AllProducts = () => {
     .then(res => res.json())
     .then(data=>setProducts(data))
    },[])
-   const{title, description, image, productId}= products;
+   const{title, description, image, productId, details}= products;
 
     return (
         <div>
@@ -34,6 +34,7 @@ const AllProducts = () => {
     <h2 className="card-title">{product.title}</h2>
     <p>{product.description}</p>
     <div className="card-actions justify-center">
+     
       <NavLink to={`/details/${product.productId}`} className="btn text-white rounded-md bg-green-500">View Details</NavLink>
     </div>
   </div>

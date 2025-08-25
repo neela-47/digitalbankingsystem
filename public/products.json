@@ -17,7 +17,9 @@
       "features": [
         "📄 Easy online account opening",
         "🔐 Secure access with OTP & biometric",
-        "📱 Mobile app access for all account types"
+        "📱 Mobile app access for all account types",
+        "💳 Instant virtual debit card on account creation",
+        "📊 Real-time balance updates"
       ],
       "benefits": [
         "💸 Zero balance facility for student accounts",
@@ -44,7 +46,9 @@
       "features": [
         "🔒 Secure OTP verification",
         "📲 Add to Google/Apple Pay",
-        "🧾 Expense tracking from app"
+        "🧾 Expense tracking from app",
+        "⚡ Instant card lock/unlock from app",
+        "🌍 International payment support"
       ],
       "benefits": [
         "💳 Virtual card activation within minutes",
@@ -69,7 +73,9 @@
       "features": [
         "📈 Competitive interest rates",
         "📆 Flexible tenure options",
-        "🔔 Maturity alerts"
+        "🔔 Maturity alerts",
+        "💵 Auto-renewal option",
+        "📄 Easy early withdrawal process"
       ],
       "benefits": [
         "🏆 Bonus on goal achievement",
@@ -95,7 +101,9 @@
       "features": [
         "⚡ Instant processing",
         "🧾 Bill history & receipts",
-        "🔁 Set up AutoPay"
+        "🔁 Set up AutoPay",
+        "📱 Pay bills directly from mobile app",
+        "💡 Bill reminders before due date"
       ],
       "benefits": [
         "🎁 5% cashback on utility bill payments",
@@ -121,7 +129,9 @@
       "features": [
         "📲 Biometric login",
         "🔔 Free SMS alerts",
-        "📊 Real-time transaction history"
+        "📊 Real-time transaction history",
+        "💡 Customizable transaction limits",
+        "🌐 24/7 access anywhere"
       ],
       "benefits": [
         "🆓 Monthly SMS alert free",
@@ -147,7 +157,9 @@
       "features": [
         "📅 Easy EMI setup",
         "📝 Paperless application",
-        "📈 Credit score insight"
+        "📈 Credit score insight",
+        "⚡ Instant loan eligibility check",
+        "💰 Prepayment without extra charge"
       ],
       "benefits": [
         "📉 Low interest rate options",
@@ -157,5 +169,305 @@
         "🎁 No processing fee on first loan"
       ]
     }
+  },
+  {
+    "productId": 7,
+    "title": "🎓 Student Account",
+    "description": "শিক্ষার্থীদের জন্য সহজ সঞ্চয় সুবিধা।",
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p7.png?updatedAt=1754909857324",
+    "details": {
+      "services": [
+        "✅ Zero balance account",
+        "✅ Free ATM card",
+        "✅ Online & mobile banking"
+      ],
+      "features": [
+        "📄 Easy KYC with student ID",
+        "🎁 ৳৫০ welcome bonus",
+        "📊 Free balance check"
+      ],
+      "benefits": [
+        "💸 No hidden charges",
+        "⚡ Quick account activation"
+      ],
+      "offers": [
+        "🎉 Open an account & get free debit card"
+      ]
+    }
+  },
+  {
+    "productId": 8,
+    "title": "🏠 Housewife Account",
+    "description": "গৃহিণীদের জন্য নিরাপদ সঞ্চয় সুবিধা।",
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p8.png?updatedAt=1754910679921",
+    "details": {
+      "services": [
+        "✅ Low minimum balance",
+        "✅ Daily interest credit",
+        "✅ Mobile banking facility"
+      ],
+      "features": [
+        "💳 Free debit card",
+        "📊 Monthly account statement",
+        "🔐 Secure OTP login"
+      ],
+      "benefits": [
+        "💵 Bonus interest for regular savings",
+        "🎁 Free first year service charge"
+      ],
+      "offers": [
+        "💡 Maintain ৳৫০০ balance & get ৳৫০ bonus monthly"
+      ]
+    }
+  },
+  {
+    "productId": 9,
+    "title": "🤝 Joint Account",
+    "description": "দুই বা ততোধিক ব্যক্তির জন্য যৌথ সঞ্চয় সুবিধা।",
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p9.png?updatedAt=1754909981923",
+    "details": {
+      "services": [
+        "✅ Dual signature option",
+        "✅ Flexible withdrawal rules",
+        "✅ Free SMS alerts"
+      ],
+      "features": [
+        "📝 Multiple account holders",
+        "🔐 Secure transaction authorization",
+        "📄 Easy nominee setup"
+      ],
+      "benefits": [
+        "💸 Shared savings for family or business",
+        "⚡ 24/7 access via mobile banking"
+      ],
+      "offers": [
+        "🎉 Open with spouse & get ৳২০০ bonus"
+      ]
+    }
+  },
+  {
+    "productId": 10,
+    "title": "💼 Salary Account",
+    "description": "কর্মীদের জন্য বেতন ভিত্তিক বিশেষ হিসাব।",
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p10.png?updatedAt=1754910888618",
+    "details": {
+      "services": [
+        "✅ Salary credit on payday",
+        "✅ Free ATM card",
+        "✅ Overdraft facility"
+      ],
+      "features": [
+        "📆 Automatic salary deposit",
+        "📊 Salary statement download",
+        "💳 Instant ATM access"
+      ],
+      "benefits": [
+        "💸 Zero account maintenance fee",
+        "⚡ Early salary access option"
+      ],
+      "offers": [
+        "🎁 First 3 withdrawals free"
+      ]
+    }
+  },
+  {
+  "productId": 11,
+  "title": "🆓 Shadhin Account",
+  "description": "যখন খুশি, যত খুশি লেনদেনের স্বাধীনতা সহ একটি বিশেষ একাউন্ট।",
+  "image": "https://ik.imagekit.io/mm5y9xdkp/p10.png?updatedAt=1754911987572",
+  "details": {
+    "features": [
+      "💳 সীমাহীন লেনদেনের সুবিধা",
+      "📱 24/7 মোবাইল ও ইন্টারনেট ব্যাংকিং",
+      "🏦 শাখায় এবং এটিএমে বিনামূল্যে সেবা"
+    ],
+    "benefits": [
+      "🔓 লেনদেনে কোনো সীমাবদ্ধতা নেই",
+      "💼 ব্যক্তিগত বা ব্যবসায়িক কাজে উপযুক্ত"
+    ],
+    "offers": [
+      "🎉 একাউন্ট খোলায় বিনামূল্যে ডেবিট কার্ড"
+    ]
   }
+}
+,
+  {
+    "productId": 12,
+    "title": "🌾 Rural Savings Account",
+    "description": "গ্রামীণ জনগণের জন্য সহজ সঞ্চয় সুবিধা।",
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p12.png?updatedAt=1754912425122",
+    "details": {
+      "services": [
+        "✅ Low minimum deposit",
+        "✅ Mobile banking via USSD",
+        "✅ Agent banking access"
+      ],
+      "features": [
+        "📄 Easy account opening at local agent",
+        "📊 Free balance check via mobile",
+        "🔐 Secure PIN-based login"
+      ],
+      "benefits": [
+        "💸 Access to savings without visiting branch",
+        "⚡ Quick cash deposit & withdrawal"
+      ],
+      "offers": [
+        "💡 First deposit bonus ৳৫০"
+      ]
+    }
+  },
+ {
+  "productId": 13,
+  "title": "💸 Remittance Services",
+  "description": "দেশে ও বিদেশে টাকা পাঠানো ও গ্রহণের সহজ ও নিরাপদ উপায়।",
+  "image": "https://ik.imagekit.io/mm5y9xdkp/p13.png?updatedAt=1754912847940",
+  "details": {
+    "services": [
+      "✅ International money transfer",
+      "✅ Instant local transfer",
+      "✅ Mobile wallet deposit"
+    ],
+    "features": [
+      "🌐 Real-time transfer tracking",
+      "📊 Low transfer fees",
+      "🔐 Secure OTP-based transactions"
+    ],
+    "benefits": [
+      "💵 Send & receive money in minutes",
+      "🏆 Bonus for regular remittance users"
+    ],
+    "offers": [
+      "🎉 First international transfer = ৳১০০ bonus"
+    ]
+  }
+},
+
+  {
+    "productId": 14,
+    "title": "🏢 Business Savings Account",
+    "description": "ব্যবসার জন্য বিশেষ সঞ্চয় সুবিধা।",
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p14.png?updatedAt=1754913021586",
+    "details": {
+      "services": [
+        "✅ High transaction limit",
+        "✅ Multiple user access",
+        "✅ Business cheque book"
+      ],
+      "features": [
+        "📊 Detailed monthly reports",
+        "📄 Easy online payments",
+        "💳 Free debit card"
+      ],
+      "benefits": [
+        "💸 Better interest rate for businesses",
+        "⚡ Fast online fund transfers"
+      ],
+      "offers": [
+        "🎁 First 3 months service charge free"
+      ]
+    }
+  },
+  {
+    "productId": 15,
+    "title": "💰 Micro Savings Account",
+    "description": "ক্ষুদ্র সঞ্চয়কারীদের জন্য সহজ ও নিরাপদ অ্যাকাউন্ট।",
+    "image": "https://via.placeholder.com/150?text=Micro+Savings",
+    "details": {
+      "services": [
+        "✅ Very low deposit requirement",
+        "✅ Mobile banking access",
+        "✅ Free SMS alerts"
+      ],
+      "features": [
+        "📄 Open with just ৳১০০",
+        "📊 Interest credited monthly",
+        "🔐 Secure OTP login"
+      ],
+      "benefits": [
+        "💸 Save small amounts easily",
+        "💡 Encourages consistent saving habit"
+      ],
+      "offers": [
+        "🎉 Maintain balance for 3 months & get ৳৫০ bonus"
+      ]
+    }
+  },
+  {
+    "productId": 16,
+    "title": "🌍 Foreign Currency Savings Account",
+    "description": "বিদেশি মুদ্রায় সঞ্চয়ের জন্য বিশেষ হিসাব।",
+    "image": "https://ik.imagekit.io/mm5y9xdkp/p16.png?updatedAt=1754913806208",
+    "details": {
+      "services": [
+        "✅ Multi-currency support",
+        "✅ International transfers",
+        "✅ Currency conversion facility"
+      ],
+      "features": [
+        "🌐 Online currency conversion",
+        "📊 View rates in real-time",
+        "🔐 Secure international transactions"
+      ],
+      "benefits": [
+        "💸 Save in preferred foreign currency",
+        "⚡ Easy remittance deposits"
+      ],
+      "offers": [
+        "🎉 Open account & get free currency conversion for 1 month"
+      ]
+    }
+  },
+  
+  {
+  "productId": 17,
+  "title": "🏦 Fixed Deposit (FDR)",
+  "description": "নির্দিষ্ট সময়ের জন্য উচ্চ সুদের বিনিয়োগ।",
+  "image": "https://ik.imagekit.io/mm5y9xdkp/p10.png?updatedAt=1754911987572",
+  "details": {
+    "services": [
+      "✅ Flexible tenure (3 months to 5 years)",
+      "✅ High interest rate",
+      "✅ Auto-renewal option"
+    ],
+    "features": [
+      "📆 Choose your preferred deposit period",
+      "📊 Interest credited quarterly/annually",
+      "🔐 Secure and guaranteed returns"
+    ],
+    "benefits": [
+      "💸 Higher earnings compared to savings accounts",
+      "🏆 Guaranteed maturity amount"
+    ],
+    "offers": [
+      "🎉 Open FDR for 1 year & get 0.5% extra interest"
+    ]
+  }
+},
+{
+  "productId": 18,
+  "title": "📅 Deposit Pension Scheme (DPS)",
+  "description": "প্রতিমাসে নির্দিষ্ট অঙ্ক জমা দিয়ে বড় অঙ্কের সঞ্চয়।",
+  "image": "https://ik.imagekit.io/mm5y9xdkp/p18.png?updatedAt=1754914227922",
+  "details": {
+    "services": [
+      "✅ Monthly fixed deposit",
+      "✅ Flexible plan duration (3–10 years)",
+      "✅ Auto-debit from account"
+    ],
+    "features": [
+      "📆 Choose deposit amount & period",
+      "📊 Get bonus interest on maturity",
+      "🔐 No hidden charges"
+    ],
+    "benefits": [
+      "💸 Build a large fund step-by-step",
+      "🏆 Bonus for on-time deposits"
+    ],
+    "offers": [
+      "🎉 Open DPS & get first month free service charge"
+    ]
+  }
+}
+
+
 ]
